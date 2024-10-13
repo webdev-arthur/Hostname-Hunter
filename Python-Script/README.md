@@ -1,11 +1,3 @@
-
----
-
-### Python Script README
-
-**Filename**: `Python-Script/README.md`
-
-```markdown
 # HostHunter - Python Version
 
 This is the **Python** implementation of **HostHunter**, a reverse DNS lookup tool for performing DNS lookups on individual IP addresses.

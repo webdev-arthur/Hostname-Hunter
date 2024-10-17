@@ -1,4 +1,4 @@
-# HostHunter
+# HostName-Hunter
 
 **HostHunter** is a reverse DNS lookup tool designed to perform DNS lookups on a list of IP addresses, providing hostname information for each IP. This tool supports both **JavaScript (Node.js)** and **Python** implementations, allowing users to choose the language they are more comfortable with or the one that best fits their environment.
 
